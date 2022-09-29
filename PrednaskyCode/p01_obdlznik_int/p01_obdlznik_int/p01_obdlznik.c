@@ -2,6 +2,17 @@
 /* program vypocita obvod a obsah obdlznika
  cele cisla – int */
 
+
+
+
+
+
+
+
+
+/*
+ 
+
 #include <stdio.h>
 int main()
 {
@@ -14,3 +25,4 @@ int main()
     printf("- obvod %f\n- obsah %f\n", o, s);
     return 0;
 }
+*/

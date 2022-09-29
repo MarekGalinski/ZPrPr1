@@ -8,6 +8,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Vitajte na ZPrPr1!\n");
+    printf("Vitajte na ZPrPr1flo!\n");
     return 0;
 }
