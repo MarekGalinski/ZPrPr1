@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		EA0775512518EBAF00893C32 /* p01_priemer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = p01_priemer; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA0775542518EBAF00893C32 /* p01_priemer.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = p01_priemer.c; sourceTree = "<group>"; };
+		EAC3669128F6C2CC0056692B /* subor.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = subor.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				EA0775542518EBAF00893C32 /* p01_priemer.c */,
+				EAC3669128F6C2CC0056692B /* subor.txt */,
 			);
 			path = p01_priemer;
 			sourceTree = "<group>";
